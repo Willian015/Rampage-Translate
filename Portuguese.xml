@@ -105,7 +105,7 @@ Tradução para PT-BR do traienr Rampage | Ultima atualização: 03/01/2021.
 	<Translation Original="Loot peds a bit faster." Replace="Loot peds a bit faster."/> 
 	<Translation Original="Activates fly mode." Replace="Ativa o modo voar."/> 
 	<Translation Original="Controls: [W] [Space]." Replace="Controls: [W] [Space]."/> 
-	<Translation Original="Disable player collision." Replace="Desabilitar colisões no jogador"/> 
+	<Translation Original="Disable player collision." Replace="Desabilitar colisões com o jogador."/> 
 	<Translation Original="You will fall trough world." Replace="You will fall trough world."/> 
 	<Translation Original="Push nearby entities away." Replace="Push nearby entities away."/>
 	<Translation Original="Cores will never drain." Replace="Cores will never drain."/> 
@@ -121,6 +121,23 @@ Tradução para PT-BR do traienr Rampage | Ultima atualização: 03/01/2021.
 	<Translation Original="Creates a clone of your current model." Replace="Cria um clone do seu personagem atual."/> 
 	<Translation Original="Kill yourself." Replace="Kill yourself."/> 
 	<Translation Original="Instant death." Replace="Morte instantânea."/> 
+	
+	<!--- PLAYER INFO STATUS--->
+	<Translation Original="Player Info" Replace="Informações do Jogador"/>
+	<Translation Original="Health" Replace="Vida"/>
+	<Translation Original="Movement" Replace="Movimento"/>
+	<Translation Original="Wanted Level" Replace="Nível de procurado"/>
+	<Translation Original="Primary Weapon" Replace="Arma primária"/>
+	<Translation Original="Secondary Weapon" Replace="Arma secundária"/>
+	<Translation Original="X Coord" Replace="Coordenada X"/>
+	<Translation Original="Y Coord" Replace="Coordenada Y"/>
+	<Translation Original="Z Coord" Replace="Coordenada Z"/>
+	<Translation Original="Location" Replace="Localização"/>
+	<Translation Original="Bank" Replace="Banco"/>
+	<Translation Original="Speed" Replace="Velocidade"/>
+	<Translation Original="Ammo" Replace="Munição"/>
+	<Translation Original="Heading" Replace="Heading"/>
+	<Translation Original="Honor" Replace="Honra"/>
 	
 	<!--- HORSE MENU --->
 	<Translation Original="HORSE" Replace="CAVALO"/>
@@ -158,7 +175,7 @@ Tradução para PT-BR do traienr Rampage | Ultima atualização: 03/01/2021.
 	<Translation Original="Revive own horse" Replace="Reviver cavalo"/> 
 	
 	<!--- HORSE MENU DESCRIPTIONS--->
-	<Translation Original="Load or Save horses." Replace="Carrega ou salva o cavalo."/> 
+	<Translation Original="Load or Save horses." Replace="Carrega ou salva os cavalos."/> 
 	<Translation Original="Add blips to your horses." Replace="Add blips to your horses."/> 
 	<Translation Original="Helps you to find them on the map." Replace="Helps you to find them on the map."/> 
 	<Translation Original="Your horse becomes invincible." Replace="Seu cavalo fica envencível."/> 

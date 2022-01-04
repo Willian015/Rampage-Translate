@@ -1,7 +1,7 @@
 <!---
 Tradução para PT-BR do traienr Rampage | Ultima atualização: 03/01/2021.
 ---->
-<Table>
+	<Table>
 	<Meta Author="wZAP"/>
 	
 	<!--- HOME MENU --->
@@ -17,7 +17,7 @@ Tradução para PT-BR do traienr Rampage | Ultima atualização: 03/01/2021.
 	<Translation Original="Character Stats" Replace="Status de personagem"/>
 	<Translation Original="Settings" Replace="Configurações"/>
 	
-	<!--- HOME MENU DESCRIPTIONS--->
+	<!--- HOME MENU DESCRIPTIONS --->
 	<Translation Original="Options that affect your player." Replace="Opções que afetam seu jogador."/>
 	<Translation Original="Options that affect your horse." Replace="Opções que afetam seu cavalo."/>
 	<Translation Original="Customize all your weapons." Replace="Modifique todas as suas armas."/>
@@ -29,36 +29,36 @@ Tradução para PT-BR do traienr Rampage | Ultima atualização: 03/01/2021.
 	<Translation Original="Edit your offline character stats." Replace="Edite seu personagem offline."/>
 	<Translation Original="Customize the Trainer." Replace="Customize o trainer."/>
 	
-	<!--- PLAYER MENU --->
+	<!---PLAYER--->
 	<Translation Original="PLAYER" Replace="JOGADOR"/>
 	<Translation Original="Scenarios" Replace="Scenarios"/>
 	<Translation Original="Animations" Replace="Animações"/>
-	<Translation Original="Wardrobe" Replace="Guarda-roupa"/>
-	<Translation Original="Vision" Replace="Vision"/>
-	<Translation Original="Effects" Replace="Efeitos"/>
-	<Translation Original="Emotes" Replace="Emoções"/>
-	<Translation Original="Play Speech" Replace="Play Speech"/>
-	<Translation Original="Moods" Replace="Humores"/>
-	<Translation Original="Abilities" Replace="Habilidades"/>
-	<Translation Original="Player Proofs" Replace="Player Proofs"/>
-	<Translation Original="Godmode" Replace="Invecibilidade"/> 
+	<Translation Original="Wardrobe" Replace="Guarda-roupa"/> 
+	<Translation Original="Vision" Replace="Vision"/> 
+	<Translation Original="Effects" Replace="Efeitos"/> 
+	<Translation Original="Emotes" Replace="Emotes"/> 
+	<Translation Original="Play Speech" Replace="Play Speech"/> 
+	<Translation Original="Moods" Replace="Moods"/> 
+	<Translation Original="Abilities" Replace="Habilidades"/> 
+	<Translation Original="Player Proofs" Replace="Player Proofs"/> 
+
+	<Translation Original="Godmode" Replace="Godmode"/> 
 	<Translation Original="Auto Heal" Replace="Auto Heal"/> 
-	<Translation Original="Ghostmode" Replace="Invisibilidade"/> 
+	<Translation Original="Ghost Mode" Replace="Ghost Mode"/> 
 	<Translation Original="Infinitive Stamina" Replace="Infinitive Stamina"/> 
 	<Translation Original="Never Wanted" Replace="Nunca procurado"/> 
 	<Translation Original="End Pursuit" Replace="End Pursuit"/> 
-	<Translation Original="Everyone Ignore" Replace="Todos ignoram"/> 
-	<Translation Original="Infinitive Swim" Replace="Nado infinito"/> 
-	<Translation Original="No Noise" Replace="Sem barulho"/> 
-	<Translation Original="Super Jump" Replace="Super pulo"/> 
-	<Translation Original="Ultra Jump" Replace="Ultra pulo"/> 
-	<Translation Original="Player Scale" Replace="Escala do jogador"/> 
+	<Translation Original="Everyone Ignore" Replace="Everyone Ignore"/> 
+	<Translation Original="Infinitive Swim" Replace="Infinitive Swim"/> 
+	<Translation Original="No Noise" Replace="No Noise"/> 
+	<Translation Original="Super jump" Replace="Super jump"/> 
+	<Translation Original="Ultra Jump" Replace="Ultra Jump"/> 
+	<Translation Original="Player Scale" Replace="Player Scale"/> 
 	<Translation Original="No Ragdoll" Replace="No Ragdoll"/> 
-	<Translation Original="Super Run" Replace="Super corrida"/> 
-	<Translation Original="Passive Run" Replace="Passive Run"/>
+	<Translation Original="Super Run" Replace="Super Run"/> 
+	<Translation Original="Passive Run" Replace="Passive Run"/> 
 	<Translation Original="Player Opacity" Replace="Opacidade do jogador"/> 
-	<Translation Original="Quick Skin" Replace="Quick Skin"/> 
-	<Translation Original="Quick Loot" Replace="Quick Loot"/> 
+	<Translation Original="Quick skin" Replace="Quick skin"/> 
 	<Translation Original="Fly Mode" Replace="Modo voar"/> 
 	<Translation Original="Collision" Replace="Colisões"/> 
 	<Translation Original="Forcefield" Replace="Forcefield"/> 
@@ -67,61 +67,13 @@ Tradução para PT-BR do traienr Rampage | Ultima atualização: 03/01/2021.
 	<Translation Original="Boost Cores" Replace="Boost Cores"/> 
 	<Translation Original="Fill Player Cores" Replace="Fill Player Cores"/> 
 	<Translation Original="Heal" Replace="Curar"/> 
-	<Translation Original="Clean Ped" Replace="Limpar ped"/> 
-	<Translation Original="Set Config Flag" Replace="Set Config Flag"/> 
-	<Translation Original="Clone Player" Replace="Clonar jogador"/> 
-	<Translation Original="Drink a Beer" Replace="Beber uma cerveja"/> 
-	<Translation Original="Drink a Whiskey" Replace="Beber um Whisky"/> 
+	<Translation Original="Drink A Beer" Replace="Drink A Beer"/> 
+	<Translation Original="Drink A Whiskey" Replace="Drink A Whiskey"/> 
 	<Translation Original="Quick Health Cure" Replace="Quick Health Cure"/> 
-	<Translation Original="~COLOR_RED~Get Wanted" Replace="~COLOR_RED~Ficar procurado"/> 
-	<Translation Original="~COLOR_RED~Suicide" Replace="~COLOR_RED~Suicidio"/> 
-	
-	<!--- PLAYER MENU DESCRIPTIONS--->
-	<Translation Original="Play scenarios on your ped." Replace="Play scenarios on your ped."/>
-	<Translation Original="Play animations on your ped." Replace="Play animations on your ped."/>
-	<Translation Original="Change the clothing and walkstyle." Replace="Change the clothing and walkstyle."/>
-	<Translation Original="Apply various timecycle modifiers." Replace="Apply various timecycle modifiers."/>
-	<Translation Original="Play some effects." Replace="Play some effects."/>
-	<Translation Original="Use MP emotes." Replace="Use MP emotes."/> 
-	<Translation Original="Play ped speeches." Replace="Play ped speeches."/> 
-	<Translation Original="Your player becomes invincible." Replace="Seu jogador fica invencível."/> 
-	<Translation Original="Your player regenerates max health when damaged." Replace="Your player regenerates max health when damaged."/> 
-	<Translation Original="Your player becomes invisible." Replace="Seu jogador fica invisível."/> 
-	<Translation Original="Unlimited stamina." Replace="Estamina ilimitada."/> 
-	<Translation Original="Never get wanted." Replace="Nunca fica procurado."/> 
-	<Translation Original="Clears current pursuit." Replace="Clears current pursuit."/> 
-	<Translation Original="Every ped will ignore you." Replace="Todos ignoram você."/> 
-	<Translation Original="Allows you to swim infinitive." Replace="Habilita nadar infinitamente."/> 
-	<Translation Original="Your ped will make no sounds." Replace="Seu personagem não fará nenhum som."/> 
-	<Translation Original="Your ped can jump higher." Replace="Você consegue pular mais alto"/>
-	<Translation Original="Your ped can jump much higher." Replace="Você consegue pular muito mais alto."/>
-	<Translation Original="Change your player size." Replace="Modifica o tamanho do seu jogador."/> 
-	<Translation Original="Disable ped ragdoll on impact or fall." Replace="Disable ped ragdoll on impact or fall."/> 
-	<Translation Original="Your ped can run super fast." Replace="Seu jogador pode correr muito rápido."/> 
-	<Translation Original="To activate press sprint." Replace="To activate press sprint."/> 
-	<Translation Original="Your ped speed increases passively." Replace="Your ped speed increases passively."/> 
-	<Translation Original="Set your player opacity." Replace="Define a opacidade do seu jogador."/> 
-	<Translation Original="Quickly skin animals." Replace="Quickly skin animals."/> 
-	<Translation Original="Loot peds a bit faster." Replace="Loot peds a bit faster."/> 
-	<Translation Original="Activates fly mode." Replace="Ativa o modo voar."/> 
-	<Translation Original="Controls: [W] [Space]." Replace="Controls: [W] [Space]."/> 
-	<Translation Original="Disable player collision." Replace="Desabilitar colisões com o jogador."/> 
-	<Translation Original="You will fall trough world." Replace="You will fall trough world."/> 
-	<Translation Original="Push nearby entities away." Replace="Push nearby entities away."/>
-	<Translation Original="Cores will never drain." Replace="Cores will never drain."/> 
-	<Translation Original="Enables attribute overpower." Replace="Enables attribute overpower."/> 
-	<Translation Original="Affects Health, Sprint and Dead-Eye." Replace="Affects Health, Sprint and Dead-Eye."/> 
-	<Translation Original="Enables attribute overpower." Replace="Enables attribute overpower."/> 
-	<Translation Original="Affects Health, Sprint and Dead-Eye." Replace="Affects Health, Sprint and Dead-Eye."/> 
-	<Translation Original="Fill all your cores." Replace="Fill all your cores."/> 
-	<Translation Original="Heal yourself." Replace="Cura você mesmo."/> 
-	<Translation Original="Clean your ped." Replace="Limpa seu personagem."/> 
-	<Translation Original="Clean's blood and damages." Replace="Limpa o sangue e danos."/> 
-	<Translation Original="Clones your player." Replace="Clona seu jogador."/> 
-	<Translation Original="Creates a clone of your current model." Replace="Cria um clone do seu personagem atual."/> 
-	<Translation Original="Kill yourself." Replace="Kill yourself."/> 
-	<Translation Original="Instant death." Replace="Morte instantânea."/> 
-	
+	<Translation Original="Instant Death" Replace="Instant Death"/> 
+	<Translation Original="Clone Player" Replace="Clone Player"/> 
+	<Translation Original="Clean Ped" Replace="Clean Ped"/> 
+
 	<!--- PLAYER INFO BOX--->
 	<Translation Original="Player Info" Replace="Informações do Jogador"/>
 	<Translation Original="Health" Replace="Vida"/>
@@ -138,140 +90,312 @@ Tradução para PT-BR do traienr Rampage | Ultima atualização: 03/01/2021.
 	<Translation Original="Ammo" Replace="Munição"/>
 	<Translation Original="Heading" Replace="Heading"/>
 	<Translation Original="Honor" Replace="Honra"/>
-	
-	<!--- HORSE MENU --->
-	<Translation Original="HORSE" Replace="CAVALO"/>
-	<Translation Original="Stats" Replace="Status"/> 
-	<Translation Original="Mobile Stable" Replace="Estábulo móvel"/> 
-	<Translation Original="Load / Save" Replace="Carregar / Salvar"/> 
+
+	<!--- LEFT SIDE---
+
+	<Translation Original="Player Health" Replace=" "/> 
+	<Translation Original="Player Honor" Replace=" "/> 
+	<Translation Original="Player Model" Replace=" "/> 
+	<Translation Original="Player Movement" Replace=" "/> 
+	<Translation Original="Player Wanted Level" Replace=" "/> 
+	<Translation Original="Player Primary Weapon" Replace=" "/> 
+	<Translation Original="Player Secondary Weapon" Replace=" "/> 
+	<Translation Original="Player X Coord" Replace=" "/> 
+	<Translation Original="Player Y Coord" Replace=" "/> 
+	<Translation Original="Player Z Coord" Replace=" "/> 
+	<Translation Original="Player Location" Replace=" "/>  --->
+
+	<!--- RIGHT SIDE--->
+
+	<Translation Original="Player Bank" Replace=" "/> 
+	<Translation Original="Player Bounty" Replace=" "/> 
+	<Translation Original="Player Speed" Replace=" "/> 
+	<Translation Original="Player Ammo" Replace=" "/> 
+	<Translation Original="Player Heading" Replace=" "/> 
+	<Translation Original="Player Pitch" Replace=" "/> 
+	<Translation Original="Player Roll" Replace=" "/> 
+	<Translation Original="Player Yaw" Replace=" "/> 
+
+	<!--- HORSE  --->
+
+	<!--- Horse (Not On Horse) --->
+
+	<Translation Original="Load/Save" Replace="Carregar / Salvar"/> 
 	<Translation Original="Blip" Replace="Blip"/> 
-	<Translation Original="Invincible" Replace="Invecível"/> 
-	<Translation Original="Invisible" Replace="Inivísvel"/> 
-	<Translation Original="Stamina Never Drain" Replace="Stamina Never Drain"/> 
-	<Translation Original="Never Ragdoll" Replace="Never Ragdoll"/> 
-	<Translation Original="Horse Scale" Replace="Escala do cavalo"/> 
-	<Translation Original="Super Speed" Replace="Super velocidade"/> 
-	<Translation Original="Speed Modifier" Replace="Modificador de velocidade"/> 
-	<Translation Original="Horse Fly Mode" Replace="Modo voar do cavalo"/>
-	<Translation Original="Speed" Replace="Velocidade"/>
-	<Translation Original="Cores Never Drain" Replace="Cores Never Drain"/> 
-	<Translation Original="Horse Always Calm" Replace="Cavalo sempre calmo"/> 
-	<Translation Original="Flaming Hooves" Replace="Cascos flamejantes"/> 
-	<Translation Original="Fill Horse Cores" Replace="Fill Horse Cores"/> 
-	<Translation Original="Cores Overpower" Replace="Cores Overpower"/> 
-	<Translation Original="Quick Boost" Replace="Quick Boost"/> 
-	<Translation Original="Quick Stop" Replace="Quick Stop"/> 
+	<Translation Original="Teleport Own Horse To Me" Replace="Teleport Own Horse To Me"/> 
+	<Translation Original="Revive Own Horse" Replace="Revive Own Horse"/> 
+
+	<!--- Horse (On Horse) --->
+
+	<Translation Original="Stats" Replace="Stats"/> 
+	<Translation Original="Mobile Stable" Replace="Mobile Stable"/> 
+	<Translation Original="Load/Save" Replace="Carregar / Salvar"/> 
+	<Translation Original="Blip" Replace="Blip"/> 
+
+	<Translation Original="Godmode" Replace=" "/> 
+	<Translation Original="Ghostmode" Replace=" "/> 
+	<Translation Original="Infinitive Stamina" Replace=" "/> 
+	<Translation Original="No Ragdoll" Replace=" "/> 
+	<Translation Original="Horse Scale" Replace=" "/> 
+	<Translation Original="Super Run" Replace=" "/> 
+	<Translation Original="Fly Mode" Replace=" "/> 
+	<Translation Original="Corse Never Drain" Replace=" "/> 
+	<Translation Original="Horse Always Calm " Replace=" "/> 
+	<Translation Original="Flaming Hooves" Replace=" "/> 
+	<Translation Original="Fill Horse Cores" Replace=" "/> 
+	<Translation Original="Cores Overpower" Replace=" "/> 
+	<Translation Original="Quick Boost" Replace=" "/> 
+	<Translation Original="Quick Stop" Replace=" "/> 
 	<Translation Original="Heal" Replace="Curar"/> 
 	<Translation Original="Clean" Replace="Limpar"/> 
-	<Translation Original="Always Clean" Replace="Sempre limpo"/> 
+	<Translation Original="Auto Clean" Replace="Limpar automaticamente"/> 
 	<Translation Original="Clone" Replace="Clonar"/> 
-	<Translation Original="Rename" Replace="Renomear"/>
-	<Translation Original="Set as Saddle Horse" Replace="Set as Saddle Horse"/>
-	<Translation Original="~COLOR_RED~Kill" Replace="~COLOR_RED~Matar"/> 
-	<Translation Original="~COLOR_RED~Delete" Replace="~COLOR_RED~Deletar"/> 
-	<Translation Original="HORSE ~E~[NOT ON HORSE]" Replace="HORSE ~E~[NOT ON HORSE]"/> 
-	<Translation Original="Teleport horse to me" Replace="Teleportar cavalo até você"/> 
-	<Translation Original="Teleport to horse" Replace="Teleportar para o cavalo"/> 
-	<Translation Original="Revive own horse" Replace="Reviver cavalo"/> 
+	<Translation Original="Rename" Replace="Renomear"/> 
+	<Translation Original="Set As Saddle Horse" Replace=" "/> 
+	<Translation Original="Kill" Replace=" "/> 
+	<Translation Original="Delete" Replace=" "/> 
+
+	<!--- Horse Info Box--->
+
+	<Translation Original="Heath" Replace=" "/> 
+	<Translation Original="Max Stamina" Replace=" "/> 
+	<Translation Original="Speed" Replace=" "/> 
+	<Translation Original="Handling" Replace=" "/> 
+	<Translation Original="Hash" Replace=" "/> 
+
+	<!--- WEAPONS  (135)--->
+
+	<Translation Original="Manage Weapons" Replace=" "/> 
+	<Translation Original="Ammo Modifiers" Replace=" "/> 
+	<Translation Original="Aimbot" Replace=" "/> 
+	<Translation Original="Visuals" Replace=" "/> 
+	<Translation Original="Modifiers" Replace=" "/> 
+	<Translation Original="Dual Wield" Replace=" "/> 
+
+	<!--- Weapon Mods--->
+
+	<Translation Original="Slow Motion On Aiming" Replace=" "/> 
+	<Translation Original="First Person On Aim" Replace=" "/> 
+	<Translation Original="Rapid Fire" Replace=" "/> 
+	<Translation Original="Rapid Gun" Replace=" "/> 
+	<Translation Original="Auto Cock " Replace=" "/> 
+	<Translation Original="Tenfold Bullets" Replace=" "/> 
+	<Translation Original="Explosive Ammo" Replace=" "/> 
+	<Translation Original="Fire Ammo" Replace=" "/> 
+	<Translation Original="Infinite Ammo" Replace=" "/> 
+	<Translation Original="No Reload " Replace=" "/> 
+	<Translation Original="One Hit Kill" Replace=" "/> 
+	<Translation Original="Super Punch" Replace=" "/> 
+	<Translation Original="Teleport Gun" Replace=" "/> 
+	<Translation Original="Lighting Strike Gun " Replace=" "/> 
+	<Translation Original="Thunder Hawk " Replace=" "/> 
+	<Translation Original="Gravity Gun" Replace=" "/> 
+	<Translation Original="Magnet Gun" Replace=" "/> 
+	<Translation Original="Pickup Gun" Replace=" "/> 
+	<Translation Original="Portal Gun" Replace=" "/> 
+	<Translation Original="Perfect Pelt Gun" Replace=" "/> 
+	<Translation Original="Force Gun" Replace=" "/> 
+	<Translation Original="Freeze Gun" Replace=" "/> 
+	<Translation Original="Drive It Gun" Replace=" "/> 
+	<Translation Original="Weapon Laser" Replace=" "/> 
+	<Translation Original="Debug Gun" Replace=" "/> 
+	<Translation Original="Delete Gun" Replace=" "/> 
+	<Translation Original="Revive Gun" Replace=" "/> 
+	<Translation Original="Disco Lantern" Replace=" "/> 
+
+	<!--- WEAPON INFO BOX--->
+
+	<Translation Original="Weapon Name" Replace=" "/> 
+	<Translation Original="Weapon Icon" Replace=" "/> 
+	<Translation Original="Weapon Ammo" Replace=" "/> 
+	<Translation Original="Weapon Hash" Replace=" "/> 
+
+	<!--- VEHICLE  (118)--->
+
+	<Translation Original="Train Creator" Replace=" "/> 
+	<Translation Original="Blip" Replace=" "/> 
+	<Translation Original="Vehicle AI" Replace=" "/> 
+	<Translation Original="Chauffeur" Replace=" "/> 
+	<Translation Original="Paint Options" Replace=" "/> 
+	<Translation Original="Customization" Replace=" "/> 
+
+	<Translation Original="Godmode" Replace=" "/> 
+	<Translation Original="Ghost Vehicle" Replace=" "/> 
+	<Translation Original="Vehicle Opacity" Replace=" "/> 
+	<Translation Original="Fly Mode" Replace=" "/> 
+	<Translation Original="Speed Boost" Replace=" "/> 
+	<Translation Original="Train Boost " Replace=" "/> 
+	<Translation Original="Stick To Ground" Replace=" "/> 
+	<Translation Original="Repair" Replace=" "/> 
+	<Translation Original="Clean" Replace=" "/> 
+	<Translation Original="Flip" Replace=" "/> 
+	<Translation Original="Stop" Replace=" "/> 
+	<Translation Original="Delete Vehicle" Replace=" "/> 
+
+	<!--- VEHICLE INFO BOX --->
+
+	<Translation Original="Vehicle Hash" Replace=" "/> 
+	<Translation Original="Vehicle Speed" Replace=" "/> 
+	<Translation Original="Vehicle Seats" Replace=" "/> 
+	<Translation Original="Vehicle Horse Power" Replace=" "/> 
+	<Translation Original="Vehicle Heath" Replace=" "/> 
+
+	<!--- TELEPORT  (155)--->
+
+	<Translation Original="Teleport To Waypoint" Replace=" "/> 
+	<Translation Original="Auto Teleport To Waypoint" Replace=" "/> 
+	<Translation Original="Remove Waypoint" Replace=" "/> 
+	<Translation Original="Teleport Animation (OFF, EASE, TRAVEL SCREEN, CLOUD TRANSITION)" Replace=" "/> 
+
+	<!--- CUSTOM LOCATIONS--->
+
+	<Translation Original="Save Current Location" Replace=" "/> 
+	<Translation Original="Custom Coords" Replace=" "/> 
+	<Translation Original="Load Custom Location" Replace=" "/> 
+
+	<!--- LOCATIONS--->
+
+	<Translation Original="Camps And Safehouses" Replace=" "/> 
+	<Translation Original="Shops And Co." Replace=" "/> 
+	<Translation Original="MidEastern Locations" Replace=" "/> 
+	<Translation Original="Saint Denis Locations" Replace=" "/> 
+	<Translation Original="North East Locations" Replace=" "/> 
+	<Translation Original="Northern Locations" Replace=" "/> 
+	<Translation Original="North West Locations" Replace=" "/> 
+	<Translation Original="South West Locations" Replace=" "/> 
+	<Translation Original="OffLand Locations" Replace=" "/> 
+	<Translation Original="Unfinished Locations" Replace=" "/> 
+	<Translation Original="Special Locations" Replace=" "/> 
+
+	<!--- DIRECTIONAL--->
+
+	<Translation Original="Forward" Replace="À frente"/> 
+	<Translation Original="Backward" Replace="Atrás"/> 
+
+	<!--- VEHICLE/HORSE--->
+
+	<Translation Original="Last Vehicle" Replace=" "/> 
+	<Translation Original="Last Horse" Replace=" "/> 
+	<Translation Original="Nearest  Vehicle" Replace=" "/> 
+
+
+	<!--- SPAWNER  (18)--->
+
+	<Translation Original="Vehicles" Replace="Veículos"/> 
+	<Translation Original="Peds" Replace=" "/> 
+	<Translation Original="Objects" Replace="Objetos"/> 
+	<Translation Original="Plants" Replace="Plantas"/> 
+
+	<!--- SPAWNED ENTITIES--->
+
+	<Translation Original="Objects" Replace="Objetos"/> 
+	<Translation Original="Vehicles" Replace="Veículos"/> 
+	<Translation Original="Peds" Replace="Personagens"/> 
+
+	<!--- WORLD  (118)--->
+
+	<Translation Original="Time" Replace="Hora"/> 
+	<Translation Original="Weather" Replace="Clima"/> 
+	<Translation Original="Ped Manager" Replace=" "/> 
+	<Translation Original="Vehicle Manager" Replace=" "/> 
+	<Translation Original="Object Manager" Replace=" "/> 
+	<Translation Original="Tornado & Black Hole" Replace=" "/> 
+	<Translation Original="IPL Loader" Replace=" "/> 
+	<Translation Original="Firework Mode" Replace=" "/> 
+	<Translation Original="Giant Mode" Replace=" "/> 
+	<Translation Original="No Gravity" Replace=" "/> 
+	<Translation Original="Decrease Ped Population" Replace=" "/> 
+	<Translation Original="Decrease Vehicle Population" Replace=" "/> 
+	<Translation Original="Delete All Trains " Replace=" "/> 
+	<Translation Original="Delete All Pickups" Replace=" "/> 
+	<Translation Original="Area Scale" Replace=" "/> 
+	<Translation Original="Clear Area" Replace=" "/> 
+	<Translation Original="Clean Area" Replace=" "/> 
+	<Translation Original="Quick Camp" Replace=" "/> 
+
+	<!--- WORLD POOLS--->
+
+	<Translation Original="World Ped Pools" Replace=" "/> 
+	<Translation Original="World Vehicle Pools" Replace=" "/> 
+	<Translation Original="World Object Pools" Replace=" "/> 
+	<Translation Original="World Pickup Pools" Replace=" "/> 
+
+	<!--- MISCELLANEOUS  (128)--->
+
+	<Translation Original="Mp3 Player" Replace="MP3 Player"/> 
+	<Translation Original="Game Music" Replace="Game Music"/> 
+	<Translation Original="Mobile Theater" Replace=" "/> 
+	<Translation Original="Cutscene Player" Replace=" "/> 
+	<Translation Original="Friendlist" Replace="Lista de amigos"/> 
+	<Translation Original="Minigames" Replace="Minigames"/> 
+	<Translation Original="Overlay Settings" Replace=" "/> 
+
+	<Translation Original="Gameplay Cam Zoom" Replace=" "/> 
+	<Translation Original="TopDown Cam" Replace=" "/> 
+	<Translation Original="No Clip" Replace=" "/> 
+	<Translation Original="Air Walk/Drive" Replace=" "/> 
+	<Translation Original="Walk Underwater" Replace=" "/> 
+	<Translation Original="Freecam" Replace=" "/> 
+	<Translation Original="Cap FPS" Replace=" "/> 
+	<Translation Original="Disable Idle Music" Replace=" "/> 
+	<Translation Original="Pause Game" Replace="Pausar jogo"/> 
+	<Translation Original="Decrease Graphics" Replace="Reduzir gráficos"/> 
+	<Translation Original="Disable New Austin Austin Sniper" Replace=" "/> 
+	<Translation Original="Disable Guarma Sniper" Replace=" "/> 
+	<Translation Original="Disable Guard Zones" Replace=" "/> 
+	<Translation Original="Fix Mission Markers" Replace=" "/> 
+	<Translation Original="Send Console Message" Replace=" "/> 
+
+	<!--- DEV--->
+
+	<Translation Original="Script Monitor" Replace=" "/> 
+	<Translation Original="Script Loader" Replace=" "/> 
+	<Translation Original="Script Terminator" Replace=" "/> 
+
+	<!--- CHARACTER STATS  (110)--->
+
+	<!--- Misc--->
+
+	<Translation Original="Cash" Replace="Dinheiro"/> 
+	<Translation Original="Loot" Replace="Loot"/> 
+	<Translation Original="Honor" Replace="Honor"/> 
+	<Translation Original="Bounty" Replace="Bounty"/> 
+	<Translation Original="Unlocks" Replace="Desbloqueios"/> 
+	<Translation Original="Collectibles" Replace="Colecionáveis"/> 
+	<Translation Original="Cores" Replace="Cores"/> 
+	<Translation Original="Reveal Map" Replace="Revelar mapa"/> 
+
+	<!--- PLAYER STATS INFO BOX--->
+
+	<Translation Original="Player Deaths" Replace="Vezes que morreu"/> 
+	<Translation Original="Player Kills" Replace="Vezes que matou"/> 
+	<Translation Original="Player Headshots" Replace="Tiros na cabeça"/> 
+	<Translation Original="Player Shots" Replace=" "/> 
+	<Translation Original="Player Completed Missions" Replace=" "/> 
+	<Translation Original="Player Crafted Items" Replace=" "/> 
+	<Translation Original="Player Looted Peds" Replace=" "/> 
+	<Translation Original="Player Times Cheated" Replace=" "/> 
+	<Translation Original="Player Total Bounty" Replace=" "/> 
+	<Translation Original="Player Cash Earned" Replace=" "/> 
+	<Translation Original="Player Cash Spend" Replace=" "/> 
+	<Translation Original="Player Playing Time" Replace=" "/> 
+	<Translation Original="Player Completion" Replace=" "/> 
+
+	<!--- SETTINGS  (114)--->
+
+	<Translation Original="Search" Replace="Busca"/> 
+	<Translation Original="Core" Replace=" "/> 
+	<Translation Original="Window Manager" Replace=" "/> 
+	<Translation Original="Extended UI" Replace=" "/> 
+	<Translation Original="Theme" Replace="Tema"/> 
+	<Translation Original="Plugins" Replace="Plugins"/> 
+	<Translation Original="Language" Replace="Idioma"/> 
+	<Translation Original="Hotkey Manager" Replace=" "/> 
+	<Translation Original="Load/Save" Replace=" "/> 
+
+	<Translation Original="Navigation Delay" Replace=" "/> 
+	<Translation Original="Value Delay" Replace=" "/> 
+	<Translation Original="Open Key" Replace=" "/> 
+	<Translation Original="Gamepad Open Key" Replace=" "/>
 	
-	<!--- HORSE MENU DESCRIPTIONS--->
-	<Translation Original="Load or Save horses." Replace="Carrega ou salva os cavalos."/> 
-	<Translation Original="Add blips to your horses." Replace="Add blips to your horses."/> 
-	<Translation Original="Helps you to find them on the map." Replace="Helps you to find them on the map."/> 
-	<Translation Original="Your horse becomes invincible." Replace="Seu cavalo fica envencível."/> 
-	<Translation Original="Your horse becomes invisible." Replace="Seu cavalo fica invisível."/> 
-	<Translation Original="Unlimited horse stamina." Replace="Estamína ilimitada para o cavalo."/>
-	<Translation Original="Disable horse ragdoll on impact or fall." Replace="Disable horse ragdoll on impact or fall."/>
-	<Translation Original="Change your horse size." Replace="Modifica o tamanho do cavalo."/> 
-	<Translation Original="Your horse can run super fast." Replace="Seu cavalo pode correr super rápido."/> 
-	<Translation Original="To activate press sprint." Replace="To activate press sprint."/> 
-	<Translation Original="Set your horse speed boost" Replace="Define o boost de velocidade do seu cavalo"/> 
-	<Translation Original="Enable horse fly mode." Replace="Habilita o modo voar do cavalo."/> 
-	<Translation Original="Controls: [Control Sticks] | [W] [Mouse]." Replace="Controls: [Control Sticks] | [W] [Mouse]."/> 
-	<Translation Original="Horse cores will never drain." Replace="Horse cores will never drain."/> 
-	<Translation Original="Horse will always be calm." Replace="Cavalo fica sempre calmo."/> 
-	<Translation Original="Horse will have flaming hooves." Replace="Cavalo fica com cascos em chamas."/> 
-	<Translation Original="Fill all your horse cores." Replace="Fill all your horse cores."/> 
-	<Translation Original="Enables horse attribute overpower." Replace="Enables horse attribute overpower."/> 
-	<Translation Original="Affects Health and Sprint." Replace="Affects Health and Sprint."/> 
-	<Translation Original="Boost your horse for some time." Replace="Boost your horse for some time."/>
-	<Translation Original="Heal your horse." Replace="Cura seu cavalo."/> 
-	<Translation Original="Clean your horse." Replace="Limpa seu cavalo."/> 
-	<Translation Original="Automatically cleans your horse." Replace="Seu cavalo fica automaticamente limpo."/> 
-	<Translation Original="Clones your Horse." Replace="Clona seu cavalo."/> 
-	<Translation Original="Creates a clone of your current Horse." Replace="Cria um clone do seu cavalo atual."/> 
-	<Translation Original="Rename your horse." Replace="Renomeia seu cavalo."/> 
-	<Translation Original="Sets your current horse as saddle horse." Replace="Sets your current horse as saddle horse."/> 
-	<Translation Original="Kill your horse." Replace="Mata seu cavalo."/> 
-	<Translation Original="Delete your horse." Replace="Deleta seu cavalo."/> 
-	<Translation Original="Teleport your horse to your location." Replace="Teleporta seu cavalo para a sua localização."/> 
-	<Translation Original="Teleport to your horse." Replace="Teleporta você até seu cavalo."/> 
-	<Translation Original="Revives your horse." Replace="Revive seu cavalo."/>
-	
-	<!--- HORSE STATS MENU --->
-	<Translation Original="HORSE STATS" Replace="STATUS DO CAVALO"/>
-	<Translation Original="Gender" Replace="Gênero"/> 
-	<Translation Original="Max Horse Cores" Replace="Max Horse Cores"/> 
-	<Translation Original="Max Horse Bonding" Replace="Max Horse Bonding"/> 
-	<Translation Original="Health Core" Replace="Health Core"/> 
-	<Translation Original="Stamina Core" Replace="Stamina Core"/> 
-	<Translation Original="Handling Level" Replace="Handling Level"/> 
-	<Translation Original="Speed Level" Replace="Nível de velocidade"/> 
-	<Translation Original="Acceleration Level" Replace="Nível de aceleração"/> 
-	<Translation Original="Bonding Level" Replace="Bonding Level"/> 
-	<Translation Original="Weight" Replace="Tamanho"/> 
-	
-	<!--- HORSE STATS MENU DESCRIPTIONS --->
-	<Translation Original="Max all your horse cores." Replace="Max all your horse cores."/> 
-	<Translation Original="Max horse bonding." Replace="Max horse bonding."/> 
-	
-	<!--- HORSE MOBILE STABLE MENU --->
-	<Translation Original="MOBILE STABLE" Replace="ESTÁBULO MÓVEL"/>
-	<Translation Original="Random Components" Replace="Componentes aleatórios"/> 
-	<Translation Original="Remove all Components" Replace="Remover todos os componentes"/> 
-	<Translation Original="Saddle" Replace="Saddle"/> 
-	<Translation Original="Saddle-Clothes" Replace="Mantas de cela"/> 
-	<Translation Original="Horns" Replace="Horns"/> 
-	<Translation Original="Stirrups" Replace="Estribos"/> 
-	<Translation Original="Bags" Replace="Bolsas"/> 
-	<Translation Original="Luggage" Replace="Bagagem"/> 
-	<Translation Original="Mane" Replace="Crina"/> 
-	<Translation Original="Tail" Replace="Rabo"/> 
-	<Translation Original="Enable Horse Component" Replace="Habilitar componentes do cavalo"/> 
-	
-	<!--- HORSE MOBILE STABLE MENU DESCRIPTIONS --->
-	<Translation Original="Enable a Horse Component by Hash." Replace="Enable a Horse Component by Hash."/> 
-	
-	<!--- HORSE LOADER MENU --->
-	<Translation Original="HORSE LOADER" Replace="CARREGAR CAVALO"/>
-	<Translation Original="Save current horse" Replace="Salvar cavalo atual"/> 
-	<Translation Original="Load Horse" Replace="Carregar cavalo"/> 
-	
-	<!--- HORSE BLIP MENU --->
-	<Translation Original="HORSE BLIP" Replace="HORSE BLIP"/>
-	<Translation Original="Add Blip" Replace="Add Blip"/> 
-	<Translation Original="Teleport to blip horse" Replace="Teleport to blip horse"/> 
-	<Translation Original="Teleport blip horse to you" Replace="Teleport blip horse to you"/> 
-	
-	<!--- HORSE BLIP MENU DESCRIPTIONS --->
-	<Translation Original="Add a blip to this horse." Replace="Add a blip to this horse."/> 
-	<Translation Original="Teleport you to your blip horse." Replace="Teleport you to your blip horse."/> 
-	<Translation Original="Teleport your blip horse to yourself." Replace="Teleport your blip horse to yourself."/>
-	
-	<!--- SCENARIOS MENU --->
-	<Translation Original="SCENARIOS" Replace="CENÁRIOS"/>
-	<Translation Original="Stop Playing" Replace="Parar de tocar"/> 
-	<Translation Original="Stop Playing Immediately" Replace="Parar de tocar imediatamente"/> 
-	<Translation Original="Use nearest" Replace="Usar o mais próximo"/> 
-	
-	<!--- ANIMATION MENU --->
-	<Translation Original="ANIMATIONS" Replace="ANIMAÇÕES"/> 
-	<Translation Original="Play Custom" Replace="Iniciar customizada"/> 
-	<Translation Original="Dictionaries" Replace="Dicionário"/>
-	
-	<!--- CUSTOM ANIMATION MENU --->
-	<Translation Original="CUSTOM ANIMATIONS" Replace="ANIMAÇÕES CUSTOMIZADAS"/> 
-	<Translation Original="Anim Flags" Replace="Anim Flags"/> 
-	<Translation Original="Play Animation" Replace="Iniciar animação"/> 
-	<Translation Original="Stop Animation" Replace="Parar animação"/> 
 </Table>
